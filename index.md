@@ -8,7 +8,7 @@ layout: page
 
 Here is **Zhihao Song**.<br>
 
-I received my master’s degree in Microelectronics and Solid-State Electronics from Shanghai University, where I conducted my research at the Shanghai Institute of Ceramics, Chinese Academy of Sciences (SICCAS) under the supervision of Prof. Yuntao Wu. My studies focused on radiation–matter interaction and functional materials, studying how energetic excitation in solids is converted into detectable light through both experimental and computational approaches.
+I received my master’s degree in Microelectronics and Solid Electronics from Shanghai University, where I conducted my research at the Shanghai Institute of Ceramics, Chinese Academy of Sciences (SICCAS) under the supervision of Prof. Yuntao Wu. My studies focused on radiation–matter interaction and functional materials, studying how energetic excitation in solids is converted into detectable light through both experimental and computational approaches.
 
 Through this experience, I developed a systems-level perspective on materials research — connecting light–matter interaction, energy conversion, and detection processes into a coherent understanding of how materials behave under optical and energetic excitation. I combined crystal processing, materials characterization, experimental observation, modeling, and data analysis to bridge underlying physics with material properties and detector performance.
 
@@ -19,7 +19,7 @@ Looking ahead, I aim to integrate materials research with experiments, computati
 ### Academic Experience
 
 - **2025 – Present**  
-  *Exploring PhD opportunities in materials and physical sciences*  
+  *Exploring PhD opportunities in materials, physical sciences, and engineering*  
   *(Still engaged in the completion of a first-author paper with Prof. Yuntao Wu)*  
 
 - **Mar 2022 – Mar 2025**  
