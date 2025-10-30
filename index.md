@@ -18,7 +18,7 @@ Looking ahead, I aim to integrate materials research with experiments, computati
 
 ### Academic Experience
 
-- **2025 – Present**  
+- **Mar 2025 – Present**  
   *Exploring PhD opportunities in materials, physical sciences, and engineering*  
   *(Still engaged in the completion of a first-author paper with Prof. Yuntao Wu)*  
 
