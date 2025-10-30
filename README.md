@@ -1,6 +1,6 @@
 # shhhhong.github.io
 
-Here is **Zhihao Song**.
+Here is **ZH**.
 
 This repository contains the source code for my personal website:  
 👉 [shhhhong.github.io](https://shhhhong.github.io)
@@ -10,4 +10,4 @@ I learned a lot from his tutorials and repository structure, and I built my own 
 
 ---
 
-© 2025 Zhihao Song. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), and inspired by [GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2025 ZH. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), and inspired by [GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io).
