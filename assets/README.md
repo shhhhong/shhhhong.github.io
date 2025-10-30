@@ -2,6 +2,4 @@
 
 Modifying this code is NOT recommended unless you are a pro.
 
-Thank you for supporting my work! Please feel free to contact me if you need help.
-
-- My email: lancecai2002@gmail.com
+For detailed modification records, please refer to the [Git commit history](https://github.com/shhhhong/shhhhong.github.io/commits/main).
