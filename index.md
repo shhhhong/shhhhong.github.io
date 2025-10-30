@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://shhhhong.github.io/images/own1.jpg" class="floatpic">
+<img src="https://shhhhong.github.io/images/own1.JPG" class="floatpic">
 
 Here is **Zhihao Song**.<br>
 
