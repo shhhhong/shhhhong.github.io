@@ -26,9 +26,6 @@ On weekends and holidays, I enjoy traveling, especially going on city walks. I a
 </div>
 <br>I love cooking and making food taste amazing is one of my favorite things to do.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
 ## My Parrots
 
 I have two adorable cockatiels: Dazhuang, the yellow one who’s strong like The Rock, and Jingang, the gray one — a “King Kong Barbie” with a sweet face and a mighty body. They’re still quite scared of humans — their cage is strictly a “no-human zone.”
