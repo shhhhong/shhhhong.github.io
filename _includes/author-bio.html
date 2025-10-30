@@ -14,16 +14,11 @@
 
 {% if site.owner.google_plus %}<p style="text-indent:0;"><a href="{{ site.owner.google_plus }}"><i class="icon-google-plus"></i> Google+</a></p>{% endif %}
 
-{% assign li = site.owner.linkedin | strip %}
-{% if li %}
-  {% if li contains 'http' %}
-    {% assign li_url = li %}
-  {% else %}
-    {% assign li_url = 'https://www.linkedin.com/in/' | append: li %}
-  {% endif %}
-  <p style="text-indent:0;">
-    <a href="{{ li_url }}"><i class="icon-linkedin"></i> LinkedIn</a>
-  </p>
+{% assign li = site.owner.linkedin | to_s | strip %}
+{% if li != '' and li %}
+  <a href="{{ li contains 'http' ? li : 'https://www.linkedin.com/in/' | append: li }}">
+    <i class="icon-linkedin"></i> LinkedIn
+  </a>
 {% endif %}
 
 
