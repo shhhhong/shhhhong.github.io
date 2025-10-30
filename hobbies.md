@@ -8,6 +8,16 @@ On weekends and holidays, I enjoy traveling, especially going on city walks. I a
 
 # Hobbies
 
+## Code & Visualization
+
+<div class="third">
+<img src="/images/hobbies/parrots.JPG">
+<img src="/images/hobbies/parrots.JPG">
+<img src="/images/hobbies/parrots.JPG">
+</div>
+<br>I like turning scattered datasets into clear visuals.
+A small script and a clean figure — that’s how I approach academic research as well, making complex data easier to understand.
+
 ## City walk
 
 <div class="third">
@@ -16,15 +26,6 @@ On weekends and holidays, I enjoy traveling, especially going on city walks. I a
 <img src="/images/hobbies/parrots.JPG">
 </div>
 <br>I love wandering aimlessly through the city, slipping into random cafés or restaurants just to let time drift by. It’s the kind of simple thing that brings me peace and quiet happiness.
-
-## Cooking
-
-<div class="third">
-<img src="/images/hobbies/parrots.JPG">
-<img src="/images/hobbies/parrots.JPG">
-<img src="/images/hobbies/parrots.JPG">
-</div>
-<br>I love cooking and making food taste amazing is one of my favorite things to do.
 
 ## My Parrots
 
