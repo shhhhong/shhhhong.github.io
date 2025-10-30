@@ -1,0 +1,33 @@
+
+#main .article-wrap {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 24px;            
+  max-width: none;     
+  width: 100%;          
+  margin: 0 auto;      
+}
+
+
+#main .article-wrap::before {
+  content: "";
+  display: block;
+}
+
+
+#main .article-wrap > * {
+  grid-column: 2;
+}
+
+
+#main .headline-wrap,
+#main .article-author-top {
+  grid-column: 1 / -1;
+}
+
+
+@media (max-width: 900px) {
+  #main .article-wrap {
+    display: block;
+  }
+}
