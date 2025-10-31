@@ -1,10 +1,12 @@
 
-
 .page__inner,
 .page__content,
 #main .article-wrap {
-  max-width: min(1200px, 92vw);
-  margin: 0 auto;
+  width: 66vw;          
+  max-width: 1200px;    
+  min-width: 600px;     
+  margin-left: auto;
+  margin-right: auto;   
   padding: 0 16px;
   box-sizing: border-box;
 }
@@ -14,9 +16,10 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 24px;
+  width: 66vw;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-#main .article-wrap.layout-2col::before { content: ""; display: block; }
-#main .article-wrap.layout-2col > * { grid-column: 2; }
 
 
 .page__content img,
@@ -34,12 +37,11 @@
   overflow-x: auto;
 }
 
-
 @media (max-width: 900px) {
   #main .article-wrap,
   #main .article-wrap.layout-2col {
     display: block;
-    max-width: 94vw;
+    width: 94vw;
     padding: 0 12px;
   }
 }
