@@ -29,12 +29,12 @@ title: Code Blog
 
 ### 🧾 Summary Notes
 
-- C++
-    -- [C++ compilation](https://github.com/shhhhong/file/c++/c++compileclang++.pages)<br>
-- Python
-    -- [Issue Log](https://github.com/shhhhong/file/python/Issue%20Log.pages)<br>
-- Geant4
+- C++<br>
+    -- [C++ compilation](https://github.com/shhhhong/file/c++/c++compileclang++.pages)<br><br>
+- Python<br>
+    -- [Issue Log](https://github.com/shhhhong/file/python/Issue%20Log.pages)<br><br>
+- Geant4<br>
     -- [Single-Thread vs. Multi-Thread Compilation in Geant4](https://github.com/shhhhong/file/Geant4/Geant4_Thread_Comparison.pages)<br>
-    -- [Production cut](https://github.com/shhhhong/file/Geant4/Production%20Cut.pages)<br>
-- CERN ROOT
-    -- [CERN ROOT via Python](https://github.com/shhhhong/file/cernroot/Cern-root%20—pyroot.pages)<br>
+    -- [Production cut](https://github.com/shhhhong/file/Geant4/Production%20Cut.pages)<br><br>
+- CERN ROOT<br>
+    -- [CERN ROOT via Python](https://github.com/shhhhong/file/cernroot/Cern-root%20—pyroot.pages)<br><br>
