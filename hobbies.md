@@ -20,16 +20,15 @@ A small script and a clean figure — that’s how I approach academic research 
 
 ## City walk
 
-<img src="/images/city walk.jpg">
+<img src="/images/city walk.jpg" class="floatpic">
 
 <br>I love wandering aimlessly through the city, slipping into random cafés or restaurants just to let time drift by. It’s the kind of simple thing that brings me peace and quiet happiness.
 
 ## My Parrots
 
+<img src="/images/hobbies/parrots.JPG" class="floatpic">
+
 I have two adorable cockatiels: Dazhuang, the yellow one who’s strong like The Rock, and Jingang, the gray one — a “King Kong Barbie” with a sweet face and a mighty body. They’re still quite scared of humans — their cage is strictly a “no-human zone.”
 
-<div>
-<img src="/images/hobbies/parrots.JPG">
-</div>
-<br>
+
 
