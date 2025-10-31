@@ -20,7 +20,7 @@ title: Code Blog
 
 ### 📊 Machine Learning and Kaggle Practice Notes
 
-- [PSDviaSVM - learning from public codes ‘https://github.com/NeutronNeutrinoSensing/PSDwithML’](https://shhhhong.github.com/file/python/pulse_shape_discrimination.html)<br>
+- [PSDviaSVM - learning from public codes ‘https://github.com/NeutronNeutrinoSensing/PSDwithML’](https://shhhhong.github.io/file/python/pulse_shape_discrimination.html)<br>
 - [Titanic Survival Prediction — Basic Practic](https://github.com/shhhhong/kaggle-notes)<br>
 
 ### 📘 MATLAB Notes
@@ -30,11 +30,11 @@ title: Code Blog
 ### 🧾 Summary Notes
 
 - C++<br>
-    -- [C++ compilation](https://shhhhong.github.com/file/c++/c++compileclang++.pages)<br><br>
+    -- [C++ compilation](https://shhhhong.github.io/file/c++/c++compileclang++.pages)<br><br>
 - Python<br>
-    -- [Issue Log](https://shhhhong.github.com/python/Issue%20Log.pages)<br><br>
+    -- [Issue Log](https://shhhhong.github.io/python/Issue%20Log.pages)<br><br>
 - Geant4<br>
-    -- [Single-Thread vs. Multi-Thread Compilation in Geant4](https://shhhhong.github.com/file/Geant4/Geant4_Thread_Comparison.pages)<br>
-    -- [Production cut](https://shhhhong.github.com/Geant4/Production%20Cut.pages)<br><br>
+    -- [Single-Thread vs. Multi-Thread Compilation in Geant4](https://shhhhong.github.io/file/Geant4/Geant4_Thread_Comparison.pages)<br>
+    -- [Production cut](https://shhhhong.github.io/Geant4/Production%20Cut.pages)<br><br>
 - CERN ROOT<br>
-    -- [CERN ROOT via Python](https://shhhhong.github.com/file/cernroot/Cern-root%20—pyroot.pages)<br><br>
+    -- [CERN ROOT via Python](https://shhhhong.github.io/file/cernroot/Cern-root%20—pyroot.pages)<br><br>
