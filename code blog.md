@@ -20,7 +20,7 @@ title: Code Blog
 
 ### 📊 Machine Learning and Kaggle Practice Notes
 
-- [PSDviaSVM - learning from public codes ‘https://github.com/NeutronNeutrinoSensing/PSDwithML’](/file/python/pulse_shape_discrimination.html)<br>
+- [PSDviaSVM - learning from public codes ‘https://github.com/NeutronNeutrinoSensing/PSDwithML’](https://github.com/shhhhong/file/python/pulse_shape_discrimination.html)<br>
 - [Titanic Survival Prediction — Basic Practic](https://github.com/shhhhong/kaggle-notes)<br>
 
 ### 📘 MATLAB Notes
@@ -30,11 +30,11 @@ title: Code Blog
 ### 🧾 Summary Notes
 
 - C++
-    -- [C++ compilation](file/c++/c++compileclang++.pages)<br>
+    -- [C++ compilation](https://github.com/shhhhong/file/c++/c++compileclang++.pages)<br>
 - Python
-    -- [Issue Log](file/python/Issue%20Log.pages)<br>
+    -- [Issue Log](https://github.com/shhhhong/file/python/Issue%20Log.pages)<br>
 - Geant4
-    -- [Single-Thread vs. Multi-Thread Compilation in Geant4](file/Geant4/Geant4_Thread_Comparison.pages)<br>
-    -- [Production cut](file/Geant4/Production%20Cut.pages)<br>
+    -- [Single-Thread vs. Multi-Thread Compilation in Geant4](https://github.com/shhhhong/file/Geant4/Geant4_Thread_Comparison.pages)<br>
+    -- [Production cut](https://github.com/shhhhong/file/Geant4/Production%20Cut.pages)<br>
 - CERN ROOT
-    -- [CERN ROOT via Python](file/cernroot/Cern-root%20—pyroot.pages)<br>
+    -- [CERN ROOT via Python](https://github.com/shhhhong/file/cernroot/Cern-root%20—pyroot.pages)<br>
