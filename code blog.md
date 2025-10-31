@@ -20,6 +20,7 @@ title: Code Blog
 
 ### 📊 Machine Learning and Kaggle Practice Notes
 
+- [PSDviaSVM - learning from public codes ‘https://github.com/NeutronNeutrinoSensing/PSDwithML’](/file/python/pulse_shape_discrimination.html)<br>
 - [Titanic Survival Prediction — Basic Practic](https://github.com/shhhhong/kaggle-notes)<br>
 
 ### 📘 MATLAB Notes
