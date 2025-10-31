@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-On weekends and holidays, I enjoy traveling, especially going on city walks. I also like cooking, and I love spending time with my pet parrot. If you like these things too, we can share and chat about them together!
+I enjoy coding and data visualization, love exploring new places through city walks, and cherish time with my pet parrot. If you share any of these interests, let’s chat.
 
 # Hobbies
 
@@ -20,11 +20,8 @@ A small script and a clean figure — that’s how I approach academic research 
 
 ## City walk
 
-<div class="third">
-<img src="/images/hobbies/parrots.JPG">
-<img src="/images/hobbies/parrots.JPG">
-<img src="/images/hobbies/parrots.JPG">
-</div>
+<img src="/images/city walk.jpg">
+
 <br>I love wandering aimlessly through the city, slipping into random cafés or restaurants just to let time drift by. It’s the kind of simple thing that brings me peace and quiet happiness.
 
 ## My Parrots
