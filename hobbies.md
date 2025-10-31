@@ -17,12 +17,14 @@ I enjoy coding and data visualization, love exploring new places through city wa
 </div>
 <br>I like turning scattered datasets into clear visuals.
 A small script and a clean figure — that’s how I approach academic research as well, making complex data easier to understand.
+<br>
 
 ## City walk
 
-<img src="/images/city walk.jpg" class="floatpic">
+<img src="/images/hobbies/city walk.jpg" class="floatpic">
 
 <br>I love wandering aimlessly through the city, slipping into random cafés or restaurants just to let time drift by. It’s the kind of simple thing that brings me peace and quiet happiness.
+<br>
 
 ## My Parrots
 

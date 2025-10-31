@@ -11,7 +11,7 @@ title: Publications
   *Nucl. Instrum. Methods Phys. Res. A* **1069** (2024) 169451.
   <br><br>
   
-  <img src="https://shhhhong.github.io/images/page.PNG" class="floatpic">
+  <img src="https://shhhhong.github.io/images/publication/page.PNG" class="floatpic">
 
   This work explores how rare-earth co-doping enhances the quenching factor in NaI:Tl,⁶Li scintillators, leading to better neutron–gamma discrimination.
 
