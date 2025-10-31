@@ -26,7 +26,7 @@ A small script and a clean figure — that’s how I approach academic research 
 <br>I love wandering aimlessly through the city, slipping into random cafés or restaurants just to let time drift by. It’s the kind of simple thing that brings me peace and quiet happiness.
 <br>
 
-## My Parrots
+## 3D Modeling
 
 <img src="/images/hobbies/3dmodel.png" class="floatpic">
 
