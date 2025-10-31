@@ -43,9 +43,15 @@
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
     </div><!--/ .headline-wrap -->
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-    </div><!-- /.article-wrap -->
+    <div class="article-wrap layout-2col" itemprop="text">
+    <aside class="sidebar">
+      <!-- 左边三分之一内容，可以放个人信息、头像、菜单等 -->
+      {% include author-bio.html %}
+    </aside>
+  <div class="content">
+    {{ content }}
+  </div>
+</div><!-- /.article-wrap -->
   </article>
 </div><!-- /#index -->
 
