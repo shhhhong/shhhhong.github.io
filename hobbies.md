@@ -11,9 +11,9 @@ I enjoy coding and data visualization, love exploring new places through city wa
 ## Code & Visualization
 
 <div class="third">
-<img src="/images/hobbies/parrots.JPG">
-<img src="/images/hobbies/parrots.JPG">
-<img src="/images/hobbies/parrots.JPG">
+<img src="/images/hobbies/code1.png">
+<img src="/images/hobbies/code2.png">
+<img src="/images/hobbies/code3.jpg">
 </div>
 <br>I like turning scattered datasets into clear visuals.
 A small script and a clean figure — that’s how I approach academic research as well, making complex data easier to understand.
@@ -25,6 +25,14 @@ A small script and a clean figure — that’s how I approach academic research 
 
 <br>I love wandering aimlessly through the city, slipping into random cafés or restaurants just to let time drift by. It’s the kind of simple thing that brings me peace and quiet happiness.
 <br>
+
+## My Parrots
+
+<img src="/images/hobbies/3dmodel.png" class="floatpic">
+
+I’m beginning to explore 3D modeling and visualization with Blender, learning how to turn scientific ideas into clear images.
+<br>
+
 
 ## My Parrots
 
