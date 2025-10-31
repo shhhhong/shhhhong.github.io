@@ -3,6 +3,9 @@
 .wrap,
 .container,
 #main .article-wrap {
+  max-width: none !important;
+}
+#main .article-wrap {
   max-width: 1200px !important;
   width: 90%;
   margin: 0 auto;
