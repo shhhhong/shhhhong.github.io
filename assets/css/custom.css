@@ -1,24 +1,24 @@
-
 #main,
 .page,
 .wrap,
 .container,
-
 #main .article-wrap {
-  max-width: 1100px;
-  width: 88%;
+  max-width: 1200px !important;
+  width: 90%;
   margin: 0 auto;
   padding: 0 24px;
-  display: block;
   box-sizing: border-box;
+}
+
+#main .article-wrap {
+  display: block;
 }
 
 #main .article-wrap.layout-2col {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 32px;
-  max-width: 1100px;
-  width: 88%;
+  width: 90%;
   margin: 0 auto;
   padding: 0 24px;
   box-sizing: border-box;
@@ -34,6 +34,10 @@
 }
 
 @media (max-width: 992px) {
+  #main,
+  .page,
+  .wrap,
+  .container,
   #main .article-wrap,
   #main .article-wrap.layout-2col {
     display: block;
