@@ -31,7 +31,7 @@ title: Code Blog
 
 - C++<br>
     -- [C++ compilation]({{ '/file/c%2B%2B/c%2B%2Bcompileclang%2B%2B.pdf' | relative_url }})
-    <details>
+    <details class="preview">
         <summary>Preview</summary>
         <iframe
             src="{{ '/file/c%2B%2B/c%2B%2Bcompileclang%2B%2B.pdf' | relative_url }}#view=FitH&toolbar=1"
@@ -42,7 +42,7 @@ title: Code Blog
 
 - Python<br>
     -- [Issue Log]({{ '/file/python/Issue%20Log.pdf' | relative_url }})
-    <details>
+    <details class="preview">
         <summary>Preview</summary>
         <iframe
             src="{{ '/file/python/Issue%20Log.pdf' | relative_url }}#view=FitH&toolbar=1"
@@ -52,7 +52,7 @@ title: Code Blog
     <br><br>
 - Geant4<br>
     -- [Single-Thread vs. Multi-Thread Compilation in Geant4]({{ '/file/c++/Geant4/Geant4ThreadComparison.pdf' | relative_url }})
-    <details>
+    <details class="preview">
         <summary>Preview</summary>
         <iframe
             src="{{ '/file/c++/Geant4/Geant4ThreadComparison.pdf' | relative_url }}#view=FitH&toolbar=1"
@@ -61,7 +61,7 @@ title: Code Blog
     </details>
     <br>
     -- [Production cut]({{ '/file/Geant4/Production%20Cut.pdf' | relative_url }})
-    <details>
+    <details class="preview">
         <summary>Preview</summary>
         <iframe
             src="{{ '/file/Geant4/Production%20Cut.pdf' | relative_url }}#view=FitH&toolbar=1"
@@ -71,7 +71,7 @@ title: Code Blog
     <br><br>
 - CERN ROOT<br>
     -- [CERN ROOT via Python]({{ '/file/cernroot/Cern-root%20—pyroot.pdf' | relative_url }})
-    <details>
+    <details class="preview">
         <summary>Preview</summary>
         <iframe
             src="{{ '/file/cernroot/Cern-root%20—pyroot.pdf' | relative_url }}#view=FitH&toolbar=1"
