@@ -30,11 +30,20 @@ title: Code Blog
 ### 🧾 Summary Notes
 
 - C++<br>
-    -- [C++ compilation](https://shhhhong.github.io/file/c++/c++compileclang++.pages)<br><br>
+    -- [C++ compilation]({{ '/file/c%2B%2B/c%2B%2Bcompileclang%2B%2B.pdf' | relative_url }})
+    <br>
+    <details>
+        <iframe
+            src="{{ '/file/c%2B%2B/c%2B%2Bcompileclang%2B%2B.pdf' | relative_url }}#view=FitH&toolbar=1"
+        width="100%" height="820" style="border:0" loading="lazy">
+        </iframe>
+    </details>
+    <br><br>
+
 - Python<br>
-    -- [Issue Log](https://shhhhong.github.io/python/Issue%20Log.pages)<br><br>
+    -- [Issue Log]({{ '/file/python/Issue%20Log.pdf' | relative_url }})<br><br>
 - Geant4<br>
-    -- [Single-Thread vs. Multi-Thread Compilation in Geant4](https://shhhhong.github.io/file/Geant4/Geant4_Thread_Comparison.pages)<br>
-    -- [Production cut](https://shhhhong.github.io/Geant4/Production%20Cut.pages)<br><br>
+    -- [Single-Thread vs. Multi-Thread Compilation in Geant4]({{ '/file/c++/Geant4/Geant4_Thread_Comparison.pdf' | relative_url }})<br>
+    -- [Production cut]({{ '/file/Geant4/Production%20Cut.pdf' | relative_url }})<br><br>
 - CERN ROOT<br>
-    -- [CERN ROOT via Python](https://shhhhong.github.io/file/cernroot/Cern-root%20—pyroot.pages)<br><br>
+    -- [CERN ROOT via Python]({{ '/file/cernroot/Cern-root%20—pyroot.pdf' | relative_url }})<br><br>
