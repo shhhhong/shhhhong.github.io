@@ -31,8 +31,8 @@ title: Code Blog
 
 - C++<br>
     -- [C++ compilation]({{ '/file/c%2B%2B/c%2B%2Bcompileclang%2B%2B.pdf' | relative_url }})
-    <br>
     <details>
+        <summary>Preview</summary>
         <iframe
             src="{{ '/file/c%2B%2B/c%2B%2Bcompileclang%2B%2B.pdf' | relative_url }}#view=FitH&toolbar=1"
         width="100%" height="820" style="border:0" loading="lazy">
@@ -41,9 +41,41 @@ title: Code Blog
     <br><br>
 
 - Python<br>
-    -- [Issue Log]({{ '/file/python/Issue%20Log.pdf' | relative_url }})<br><br>
+    -- [Issue Log]({{ '/file/python/Issue%20Log.pdf' | relative_url }})
+    <details>
+        <summary>Preview</summary>
+        <iframe
+            src="{{ '/file/python/Issue%20Log.pdf' | relative_url }}#view=FitH&toolbar=1"
+        width="100%" height="820" style="border:0" loading="lazy">
+        </iframe>
+    </details>
+    <br><br>
 - Geant4<br>
-    -- [Single-Thread vs. Multi-Thread Compilation in Geant4]({{ '/file/c++/Geant4/Geant4_Thread_Comparison.pdf' | relative_url }})<br>
-    -- [Production cut]({{ '/file/Geant4/Production%20Cut.pdf' | relative_url }})<br><br>
+    -- [Single-Thread vs. Multi-Thread Compilation in Geant4]({{ '/file/c++/Geant4/Geant4ThreadComparison.pdf' | relative_url }})
+    <details>
+        <summary>Preview</summary>
+        <iframe
+            src="{{ '/file/c++/Geant4/Geant4ThreadComparison.pdf' | relative_url }}#view=FitH&toolbar=1"
+        width="100%" height="820" style="border:0" loading="lazy">
+        </iframe>
+    </details>
+    <br>
+    -- [Production cut]({{ '/file/Geant4/Production%20Cut.pdf' | relative_url }})
+    <details>
+        <summary>Preview</summary>
+        <iframe
+            src="{{ '/file/Geant4/Production%20Cut.pdf' | relative_url }}#view=FitH&toolbar=1"
+        width="100%" height="820" style="border:0" loading="lazy">
+        </iframe>
+    </details>
+    <br><br>
 - CERN ROOT<br>
-    -- [CERN ROOT via Python]({{ '/file/cernroot/Cern-root%20—pyroot.pdf' | relative_url }})<br><br>
+    -- [CERN ROOT via Python]({{ '/file/cernroot/Cern-root%20—pyroot.pdf' | relative_url }})
+    <details>
+        <summary>Preview</summary>
+        <iframe
+            src="{{ '/file/cernroot/Cern-root%20—pyroot.pdf' | relative_url }}#view=FitH&toolbar=1"
+        width="100%" height="820" style="border:0" loading="lazy">
+        </iframe>
+    </details>
+    <br><br>
